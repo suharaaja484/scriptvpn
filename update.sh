@@ -35,7 +35,7 @@ fun_bar() {
     tput cnorm
 }
 res1() {
-    wget https://raw.githubusercontent.com/liontunnel/scriptvpn/main/menu/menu.zip
+    wget https://raw.githubusercontent.com/suharaaja484/scriptvpn/main/menu/menu.zip
     7z x -pFanVpnID0311 menu.zip
     chmod +x menu/*
     mv menu/* /usr/local/sbin
