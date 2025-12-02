@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Anton&size=25&pause=1000&color=F70000&background=000000&center=true&vCenter=true&random=true&width=435&lines=SCRIPT+BAR-BAR+ANTI+TEPAR" alt="Typing SVG" /></a>
 
-Auto Script Install All VPN Service By FanVpn
+Auto Script Install All VPN Service By KUNINGANVPN
 <img src="https://img.shields.io/badge/Version-1.0.0-blue.svg"></h2>
 
 </p> 
