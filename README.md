@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poetsen+One&size=25&pause=1000&color=F70000&background=000000&center=true&vCenter=true&random=true&width=435&lines=FAN+VPN+REAKER" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poetsen+One&size=25&pause=1000&color=F70000&background=000000&center=true&vCenter=true&random=true&width=435&lines=KUNINGAN VPN" alt="Typing SVG" /></a>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Anton&size=25&pause=1000&color=F70000&background=000000&center=true&vCenter=true&random=true&width=435&lines=SCRIPT+BAR-BAR+ANTI+TEPAR" alt="Typing SVG" /></a>
 
