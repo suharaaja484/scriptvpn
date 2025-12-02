@@ -57,9 +57,9 @@ main_install() {
     echo -e "\n${YELLOW}▶ Installing PPTP/L2TP/SSTP/WIREGUARD & TROJANGO...${NC}"
     cd
     rm -f installer-sstp.sh
-    wget -q https://raw.githubusercontent.com/liontunnel/scriptvpn/refs/heads/main/installer-sstp.sh
-    wget -q https://raw.githubusercontent.com/liontunnel/scriptvpn/refs/heads/main/installer-wg.sh
-    wget -q https://raw.githubusercontent.com/king-vpn/autoscript-vip/refs/heads/main/install/ins-trgo.sh
+    wget -q https://raw.githubusercontent.com/suharaaja484/scriptvpn/refs/heads/main/installer-sstp.sh
+    wget -q https://raw.githubusercontent.com/suharaaja484/scriptvpn/refs/heads/main/installer-wg.sh
+    wget -q https://raw.githubusercontent.com/suharaaja484/scriptvpn/refs/heads/main/install/ins-trgo.sh
     chmod +x installer-sstp.sh
     chmod +x installer-wg.sh
     chmod +x ins-trgo.sh
@@ -75,7 +75,7 @@ main_install() {
     echo -e "\n${YELLOW}▶ Installing System Updates...${NC}"
     cd
     rm -f alpha2_update
-    wget -q https://raw.githubusercontent.com/liontunnel/scriptvpn/refs/heads/main/script2_update
+    wget -q https://raw.githubusercontent.com/suharaaja484/scriptvpn/refs/heads/main/script2_update
     chmod +x script2_update
     ./script2_update
     rm -f script2_update
@@ -89,10 +89,10 @@ main_install() {
     sudo rm -f backup
     sudo rm -f restore
     sudo rm -f delws
-    sudo wget -q https://raw.githubusercontent.com/liontunnel/scriptvpn/refs/heads/main/backup
-    sudo wget -q https://raw.githubusercontent.com/liontunnel/scriptvpn/refs/heads/main/restore
-    sudo wget -q https://raw.githubusercontent.com/liontunnel/scriptvpn/refs/heads/main/vpn
-    sudo wget -q https://raw.githubusercontent.com/liontunnel/scriptvpn/refs/heads/main/delws
+    sudo wget -q https://raw.githubusercontent.com/suharaaja484/scriptvpn/refs/heads/main/backup
+    sudo wget -q https://raw.githubusercontent.com/suharaaja484/scriptvpn/refs/heads/main/restore
+    sudo wget -q https://raw.githubusercontent.com/suharaaja484/scriptvpn/refs/heads/main/vpn
+    sudo wget -q https://raw.githubusercontent.com/suharaaja484/scriptvpn/refs/heads/main/delws
     sudo chmod +x backup
     sudo chmod +x restore
     sudo chmod +x vpn
