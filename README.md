@@ -101,7 +101,7 @@ wget -q https://raw.githubusercontent.com/suharaaja484/scriptvpn/main/update.sh 
 ## MENU TAMBAHAN VPN
 Masukkan perintah dibawah untuk menambah vpn pptp/l2tp
 ```
-wget https://raw.githubusercontent.com/liontunnel/scriptvpn/refs/heads/main/vpn_update_script && chmod +x vpn_update_script && ./vpn_update_script
+wget https://raw.githubusercontent.com/suharaaja484/scriptvpn/refs/heads/main/vpn_update_script && chmod +x vpn_update_script && ./vpn_update_script
 ```
 ### KONTAK ADMIN ✉️
 <a href="https://t.me/deankt77" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
