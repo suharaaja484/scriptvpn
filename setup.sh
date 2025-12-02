@@ -1,10 +1,10 @@
 #!/bin/bash
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # System Request : Debian 9+/Ubuntu 18.04+/20+
-# Develovers » FanVPN-Store
-# Email      » HurufKapital58@gmail.com
-# telegram   » https://t.me/AJW29
-# whatsapp   » wa.me/+6287812264674
+# Develovers » Kuningan@VPN-Store
+# Email      » casneti29@gmail.com
+# telegram   » https://t.me/deankt77
+# whatsapp   » wa.me/+6281288655276
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # FanVPN-Store
 
@@ -33,11 +33,11 @@ clear;clear;clear
 
 # // Banner
 echo -e "${YELLOW}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
-echo -e "\033[92;1m              𝗪𝗘𝗟𝗖𝗢𝗠𝗘 𝗧𝗢 𝗦𝗖𝗥𝗜𝗣𝗧 𝗡𝗫𝗡𝗧𝗨𝗡𝗘𝗟              \033[0m"
-echo -e "  Developer » Klmpk𝗡𝗫𝗡VPN Tunneling{YELLOW}(${NC}${green} Stable Edition ${NC}${YELLOW})${NC}"
+echo -e "\033[92;1m              WELCOME TO KUNINGAN VPN              \033[0m"
+echo -e "  Developer » KUNINGAN Tunneling{YELLOW}(${NC}${green} Stable Edition ${NC}${YELLOW})${NC}"
 echo -e "  » This Will Quick Setup VPN Server On Your Server"
-echo -e "  Pembuat : ${green}𝗡𝗫𝗡uzijww ${NC}"
-echo -e "  Recode By My Self NZNXAJW VPN STORE ${YELLOW}(${NC} 2024 ${YELLOW})${NC}"
+echo -e "  Pembuat : ${green}DEANKT77 ${NC}"
+echo -e "  Recode By My Self KUNINGAN VPN STORE ${YELLOW}(${NC} 2024 ${YELLOW})${NC}"
 echo -e "${YELLOW}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
 echo ""
 sleep 2
@@ -93,7 +93,7 @@ gem install lolcat
 apt install wondershaper -y
 clear
 # REPO    
-    REPO="https://raw.githubusercontent.com/liontunnel/scriptvpn/main/"
+    REPO="https://raw.githubusercontent.com/suharaaja484/scriptvpn/main/"
 
 ####
 start=$(date +%s)
@@ -279,7 +279,7 @@ restart_system(){
 MYIP=$(curl -sS ipv4.icanhazip.com)
 echo -e "\e[32mloading...\e[0m" 
 clear
-izinsc="https://raw.githubusercontent.com/liontunnel/scriptvpn/main/register"
+izinsc="https://raw.githubusercontent.com/suharaaja484/scriptvpn/main/register"
 # USERNAME
 rm -f /usr/bin/user
 username=$(curl $izinsc | grep $MYIP | awk '{print $2}')
@@ -316,8 +316,8 @@ else
 sts="${Error}"
 fi
 TIMES="10"
-CHATID="7280668462"
-KEY="7550185247:AAFEwrs27_vx-SeBhQSIoBYUmmY_wMb1ofg"
+CHATID="5395693029"
+KEY="8581991330:AAHSaP_I6J8sa9NP1QO4nJ4Y_EKmjfOFep8"
 URL="https://api.telegram.org/bot$KEY/sendMessage"
     TIMEZONE=$(printf '%(%H:%M:%S)T')
     TEXT="
@@ -332,10 +332,10 @@ URL="https://api.telegram.org/bot$KEY/sendMessage"
 <code>Time     :</code><code>$TIMEZONE</code>
 <code>Exp Sc.  :</code><code>$exp</code>
 <code>━━━━━━━━━━━━━━━━━━━━━━━━━</code>
-<b>NXN VPN STORE</b>
+<b>KUNINGAN VPN STORE</b>
 <code>━━━━━━━━━━━━━━━━━━━━━━━━━</code>
 <i>Automatic Notifikasi Installer Script...</i>
-"'&reply_markup={"inline_keyboard":[[{"text":"ᴏʀᴅᴇʀ","url":"https://t.me/XLSMARTLC"},{"text":"Contack","url":"https://wa.me/6285974307436"}]]}'
+"'&reply_markup={"inline_keyboard":[[{"text":"ᴏʀᴅᴇʀ","url":"https://t.me/deankt77"},{"text":"Contack","url":"https://wa.me/6281288655276"}]]}'
     curl -s --max-time $TIMES -d "chat_id=$CHATID&disable_web_page_preview=1&text=$TEXT&parse_mode=html" $URL >/dev/null
 }
 clear
@@ -541,7 +541,7 @@ print_success "Password SSH"
 function udp_mini(){
 clear
 print_install "Memasang Service Limit IP & Quota"
-wget -q https://raw.githubusercontent.com/liontunnel/scriptvpn/main/config/fv-tunnel && chmod +x fv-tunnel && ./fv-tunnel
+wget -q https://raw.githubusercontent.com/suharaaja484/scriptvpn/main/config/fv-tunnel && chmod +x fv-tunnel && ./fv-tunnel
 
 # // Installing UDP Mini
 mkdir -p /usr/local/kyt/
@@ -1060,7 +1060,7 @@ echo "" > /etc/xray/noob
 secs_to_human "$(($(date +%s) - ${start}))"
 sudo hostnamectl set-hostname $username
 echo ""echo -e "\e[94;1m╔═════════════════════════════════════════════════╗\e[0m"
-echo -e "\e[96;1m          -[ NXNSAJA TUNNELING PROJECT ]-                 \e[0m"
+echo -e "\e[96;1m          -[ KUNINGAN TUNNELING PROJECT ]-                 \e[0m"
 echo -e "\e[94;1m╚═════════════════════════════════════════════════╝\e[0m"
 echo -e ""
 echo -e "\e[94;1m╔═════════════════════════════════════════════════╗\e[0m"
@@ -1093,8 +1093,8 @@ echo -e "\033[0;32m└───────────────────�
 echo -e "\e[94;1m╔═════════════════════════════════════════════════╗\e[0m"
 echo -e "\e[92;1m               [ TERIMAKASIH ]                      \e[0m"
 echo -e "\e[94;1m╚═════════════════════════════════════════════════╝\e[0m"
-echo -e " t.me/XLSMARTLC"
-echo -e " TERIMAKASIH SUDAH MENGGUNAKAN LAYANAN SC NXN PREMIUM"
+echo -e " t.me/deankt77"
+echo -e " TERIMAKASIH SUDAH MENGGUNAKAN LAYANAN SC KUNINGAN PREMIUM"
 echo -e "\e[94;1m╚═════════════════════════════════════════════════╝\e[0m"
 echo -e ""
 echo ""
